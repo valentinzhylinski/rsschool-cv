@@ -6,7 +6,6 @@
 * E-mail: zhylinskivalentin@gmail.com
 * Telegram: @valentin_zhylinski
 * GItHub: valentinzhylinski
-*****
 
 ## About Me:
 
